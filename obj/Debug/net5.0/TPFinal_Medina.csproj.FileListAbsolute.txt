@@ -1,0 +1,16 @@
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\bin\Debug\net5.0\TPFinal_Medina.exe
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\bin\Debug\net5.0\TPFinal_Medina.deps.json
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\bin\Debug\net5.0\TPFinal_Medina.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\bin\Debug\net5.0\TPFinal_Medina.runtimeconfig.dev.json
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\bin\Debug\net5.0\TPFinal_Medina.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\bin\Debug\net5.0\ref\TPFinal_Medina.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\bin\Debug\net5.0\TPFinal_Medina.pdb
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\ref\TPFinal_Medina.dll
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.pdb
+C:\Users\ferna\OneDrive\Documentos\Programacion\maxiprograma\cs-nivel1\TPFinal_Medina\obj\Debug\net5.0\TPFinal_Medina.genruntimeconfig.cache
